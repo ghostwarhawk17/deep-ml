@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**6** solved · 6 problems · 0 labs · 0 math
+**9** solved · 9 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -13,9 +13,12 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2025-06-25 | [solution](problems/0004-calculate-mean-by-row-or-column) |
+| [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-01-17 | [solution](problems/0042-implement-relu-activation-function) |
+| [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-01-17 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2025-06-14 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2025-06-25 | [solution](problems/0003-reshape-matrix) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2025-06-14 | [solution](problems/0002-transpose-of-a-matrix) |
+| [Overlapping Max Pooling](https://www.deep-ml.com/problems/190) | medium | 2026-01-17 | [solution](problems/0190-overlapping-max-pooling) |
 | [Pairwise Preference Judge for LLM Comparison](https://www.deep-ml.com/problems/323) | medium | 2026-01-16 | [solution](problems/0323-pairwise-preference-judge-for-llm-comparison) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-01-16 | [solution](problems/0041-simple-convolutional-2d-layer) |
 

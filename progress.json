@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T09:48:55.370Z",
+  "generated_at": "2026-09-23T09:48:57.028Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -78,6 +78,45 @@
       "last_pushed_at": "2026-01-16T16:57:38.814Z",
       "language": "python",
       "lines": 35
+    },
+    "problem:42": {
+      "kind": "problem",
+      "id": "42",
+      "title": "Implement ReLU Activation Function",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/42",
+      "path": "problems/0042-implement-relu-activation-function",
+      "first_solved_at": "2026-01-17T04:57:07.688Z",
+      "last_pushed_at": "2026-01-17T04:57:07.688Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:190": {
+      "kind": "problem",
+      "id": "190",
+      "title": "Overlapping Max Pooling",
+      "difficulty": "medium",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/190",
+      "path": "problems/0190-overlapping-max-pooling",
+      "first_solved_at": "2026-01-17T07:30:18.041Z",
+      "last_pushed_at": "2026-01-17T07:30:18.041Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:14": {
+      "kind": "problem",
+      "id": "14",
+      "title": "Linear Regression Using Normal Equation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/14",
+      "path": "problems/0014-linear-regression-using-normal-equation",
+      "first_solved_at": "2026-01-17T07:42:08.677Z",
+      "last_pushed_at": "2026-01-17T07:42:08.677Z",
+      "language": "python",
+      "lines": 8
     }
   }
 }
