@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T09:48:58.791Z",
+  "generated_at": "2026-09-23T09:49:00.506Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -130,6 +130,45 @@
       "last_pushed_at": "2026-01-18T05:40:41.141Z",
       "language": "python",
       "lines": 28
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2026-07-29T16:04:17.585Z",
+      "last_pushed_at": "2026-07-29T16:04:17.585Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:22": {
+      "kind": "problem",
+      "id": "22",
+      "title": "Sigmoid Activation Function Understanding",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/22",
+      "path": "problems/0022-sigmoid-activation-function-understanding",
+      "first_solved_at": "2026-07-29T16:06:19.081Z",
+      "last_pushed_at": "2026-07-29T16:06:19.081Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2026-07-29T16:22:50.696Z",
+      "last_pushed_at": "2026-07-29T16:22:50.696Z",
+      "language": "python",
+      "lines": 9
     }
   }
 }
