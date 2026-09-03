@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T09:49:00.506Z",
+  "generated_at": "2026-09-23T09:49:02.282Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -169,6 +169,110 @@
       "last_pushed_at": "2026-07-29T16:22:50.696Z",
       "language": "python",
       "lines": 9
+    },
+    "problem:112": {
+      "kind": "problem",
+      "id": "112",
+      "title": "Min-Max Scaling of Feature Values",
+      "difficulty": "easy",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/112",
+      "path": "problems/0112-min-max-scaling-of-feature-values",
+      "first_solved_at": "2026-09-03T16:51:15.895Z",
+      "last_pushed_at": "2026-09-03T16:51:15.895Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:354": {
+      "kind": "problem",
+      "id": "354",
+      "title": "Handle Missing Data with Imputation",
+      "difficulty": "medium",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/354",
+      "path": "problems/0354-handle-missing-data-with-imputation",
+      "first_solved_at": "2026-09-03T17:08:06.603Z",
+      "last_pushed_at": "2026-09-03T17:08:06.603Z",
+      "language": "python",
+      "lines": 34
+    },
+    "problem:355": {
+      "kind": "problem",
+      "id": "355",
+      "title": "Outlier Detection and Removal Using IQR Method",
+      "difficulty": "medium",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/355",
+      "path": "problems/0355-outlier-detection-and-removal-using-iqr-method",
+      "first_solved_at": "2026-09-03T17:22:30.419Z",
+      "last_pushed_at": "2026-09-03T17:22:30.419Z",
+      "language": "python",
+      "lines": 26
+    },
+    "problem:985": {
+      "kind": "problem",
+      "id": "985",
+      "title": "Row-Normalize a Count Matrix to Probabilities",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/985",
+      "path": "problems/0985-row-normalize-a-count-matrix-to-probabilities",
+      "first_solved_at": "2026-09-03T17:38:02.791Z",
+      "last_pushed_at": "2026-09-03T17:38:02.791Z",
+      "language": "python",
+      "lines": 12
+    },
+    "problem:357": {
+      "kind": "problem",
+      "id": "357",
+      "title": "Handle Imbalanced Data with SMOTE",
+      "difficulty": "medium",
+      "category": "Data Structures",
+      "url": "https://www.deep-ml.com/problems/357",
+      "path": "problems/0357-handle-imbalanced-data-with-smote",
+      "first_solved_at": "2026-09-03T18:11:14.576Z",
+      "last_pushed_at": "2026-09-03T18:11:14.576Z",
+      "language": "python",
+      "lines": 49
+    },
+    "problem:60": {
+      "kind": "problem",
+      "id": "60",
+      "title": "Implement TF-IDF (Term Frequency-Inverse Document Frequency)",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/60",
+      "path": "problems/0060-implement-tf-idf-term-frequency-inverse-document-frequency",
+      "first_solved_at": "2026-09-03T18:32:41.637Z",
+      "last_pushed_at": "2026-09-03T18:32:41.637Z",
+      "language": "python",
+      "lines": 44
+    },
+    "problem:321": {
+      "kind": "problem",
+      "id": "321",
+      "title": "BLEU Score for Text Generation",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/321",
+      "path": "problems/0321-bleu-score-for-text-generation",
+      "first_solved_at": "2026-09-03T18:54:29.581Z",
+      "last_pushed_at": "2026-09-03T18:54:29.581Z",
+      "language": "python",
+      "lines": 173
+    },
+    "problem:90": {
+      "kind": "problem",
+      "id": "90",
+      "title": "BM25 Ranking ",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/90",
+      "path": "problems/0090-bm25-ranking",
+      "first_solved_at": "2026-09-03T19:13:38.716Z",
+      "last_pushed_at": "2026-09-03T19:13:38.716Z",
+      "language": "python",
+      "lines": 43
     }
   }
 }

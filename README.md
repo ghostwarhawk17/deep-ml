@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**13** solved · 13 problems · 0 labs · 0 math
+**21** solved · 21 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,11 +17,19 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-01-18 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-01-17 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2025-06-14 | [solution](problems/0001-matrix-vector-dot-product) |
+| [Min-Max Scaling of Feature Values](https://www.deep-ml.com/problems/112) | easy | 2026-09-03 | [solution](problems/0112-min-max-scaling-of-feature-values) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2025-06-25 | [solution](problems/0003-reshape-matrix) |
+| [Row-Normalize a Count Matrix to Probabilities](https://www.deep-ml.com/problems/985) | easy | 2026-09-03 | [solution](problems/0985-row-normalize-a-count-matrix-to-probabilities) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-07-29 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Sigmoid Activation Function Understanding](https://www.deep-ml.com/problems/22) | easy | 2026-07-29 | [solution](problems/0022-sigmoid-activation-function-understanding) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-07-29 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2025-06-14 | [solution](problems/0002-transpose-of-a-matrix) |
+| [BLEU Score for Text Generation](https://www.deep-ml.com/problems/321) | medium | 2026-09-03 | [solution](problems/0321-bleu-score-for-text-generation) |
+| [BM25 Ranking ](https://www.deep-ml.com/problems/90) | medium | 2026-09-03 | [solution](problems/0090-bm25-ranking) |
+| [Handle Imbalanced Data with SMOTE](https://www.deep-ml.com/problems/357) | medium | 2026-09-03 | [solution](problems/0357-handle-imbalanced-data-with-smote) |
+| [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-09-03 | [solution](problems/0354-handle-missing-data-with-imputation) |
+| [Implement TF-IDF (Term Frequency-Inverse Document Frequency)](https://www.deep-ml.com/problems/60) | medium | 2026-09-03 | [solution](problems/0060-implement-tf-idf-term-frequency-inverse-document-frequency) |
+| [Outlier Detection and Removal Using IQR Method](https://www.deep-ml.com/problems/355) | medium | 2026-09-03 | [solution](problems/0355-outlier-detection-and-removal-using-iqr-method) |
 | [Overlapping Max Pooling](https://www.deep-ml.com/problems/190) | medium | 2026-01-17 | [solution](problems/0190-overlapping-max-pooling) |
 | [Pairwise Preference Judge for LLM Comparison](https://www.deep-ml.com/problems/323) | medium | 2026-01-16 | [solution](problems/0323-pairwise-preference-judge-for-llm-comparison) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-01-16 | [solution](problems/0041-simple-convolutional-2d-layer) |
