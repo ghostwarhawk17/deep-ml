@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T09:49:02.282Z",
+  "generated_at": "2026-09-23T09:49:04.188Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -273,6 +273,71 @@
       "last_pushed_at": "2026-09-03T19:13:38.716Z",
       "language": "python",
       "lines": 43
+    },
+    "problem:380": {
+      "kind": "problem",
+      "id": "380",
+      "title": "Byte Pair Encoding (BPE) Tokenizer",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/380",
+      "path": "problems/0380-byte-pair-encoding-bpe-tokenizer",
+      "first_solved_at": "2026-09-04T09:23:21.941Z",
+      "last_pushed_at": "2026-09-04T09:23:21.941Z",
+      "language": "python",
+      "lines": 45
+    },
+    "problem:320": {
+      "kind": "problem",
+      "id": "320",
+      "title": "Calculate Perplexity for Language Models",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/320",
+      "path": "problems/0320-calculate-perplexity-for-language-models",
+      "first_solved_at": "2026-09-04T09:32:43.724Z",
+      "last_pushed_at": "2026-09-04T09:32:43.724Z",
+      "language": "python",
+      "lines": 20
+    },
+    "problem:129": {
+      "kind": "problem",
+      "id": "129",
+      "title": "Calculate Unigram Probability from Corpus",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/129",
+      "path": "problems/0129-calculate-unigram-probability-from-corpus",
+      "first_solved_at": "2026-09-04T09:40:49.674Z",
+      "last_pushed_at": "2026-09-04T09:40:49.674Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:325": {
+      "kind": "problem",
+      "id": "325",
+      "title": "Exact Match Score with Normalization",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/325",
+      "path": "problems/0325-exact-match-score-with-normalization",
+      "first_solved_at": "2026-09-04T11:14:31.254Z",
+      "last_pushed_at": "2026-09-04T11:14:31.254Z",
+      "language": "python",
+      "lines": 59
+    },
+    "problem:753": {
+      "kind": "problem",
+      "id": "753",
+      "title": "Multi-Needle Long-Context Retrieval Evaluation",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/753",
+      "path": "problems/0753-multi-needle-long-context-retrieval-evaluation",
+      "first_solved_at": "2026-09-04T12:33:55.976Z",
+      "last_pushed_at": "2026-09-04T12:33:55.976Z",
+      "language": "python",
+      "lines": 36
     }
   }
 }
