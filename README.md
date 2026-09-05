@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**26** solved · 26 problems · 0 labs · 0 math
+**31** solved · 31 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -15,6 +15,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2025-06-25 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Calculate Perplexity for Language Models](https://www.deep-ml.com/problems/320) | easy | 2026-09-04 | [solution](problems/0320-calculate-perplexity-for-language-models) |
 | [Calculate Unigram Probability from Corpus](https://www.deep-ml.com/problems/129) | easy | 2026-09-04 | [solution](problems/0129-calculate-unigram-probability-from-corpus) |
+| [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-09-05 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
 | [Exact Match Score with Normalization](https://www.deep-ml.com/problems/325) | easy | 2026-09-04 | [solution](problems/0325-exact-match-score-with-normalization) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-01-17 | [solution](problems/0042-implement-relu-activation-function) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-01-18 | [solution](problems/0015-linear-regression-using-gradient-descent) |
@@ -32,12 +33,16 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Byte Pair Encoding (BPE) Tokenizer](https://www.deep-ml.com/problems/380) | medium | 2026-09-04 | [solution](problems/0380-byte-pair-encoding-bpe-tokenizer) |
 | [Handle Imbalanced Data with SMOTE](https://www.deep-ml.com/problems/357) | medium | 2026-09-03 | [solution](problems/0357-handle-imbalanced-data-with-smote) |
 | [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-09-03 | [solution](problems/0354-handle-missing-data-with-imputation) |
+| [Implement Focal Loss](https://www.deep-ml.com/problems/915) | medium | 2026-09-05 | [solution](problems/0915-implement-focal-loss) |
 | [Implement TF-IDF (Term Frequency-Inverse Document Frequency)](https://www.deep-ml.com/problems/60) | medium | 2026-09-03 | [solution](problems/0060-implement-tf-idf-term-frequency-inverse-document-frequency) |
+| [Million-Token Corpus Question Answering Evaluation](https://www.deep-ml.com/problems/763) | medium | 2026-09-05 | [solution](problems/0763-million-token-corpus-question-answering-evaluation) |
 | [Multi-Needle Long-Context Retrieval Evaluation](https://www.deep-ml.com/problems/753) | medium | 2026-09-04 | [solution](problems/0753-multi-needle-long-context-retrieval-evaluation) |
 | [Outlier Detection and Removal Using IQR Method](https://www.deep-ml.com/problems/355) | medium | 2026-09-03 | [solution](problems/0355-outlier-detection-and-removal-using-iqr-method) |
 | [Overlapping Max Pooling](https://www.deep-ml.com/problems/190) | medium | 2026-01-17 | [solution](problems/0190-overlapping-max-pooling) |
 | [Pairwise Preference Judge for LLM Comparison](https://www.deep-ml.com/problems/323) | medium | 2026-01-16 | [solution](problems/0323-pairwise-preference-judge-for-llm-comparison) |
 | [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-01-16 | [solution](problems/0041-simple-convolutional-2d-layer) |
+| [Weighted Multi-Head Index Score Computation](https://www.deep-ml.com/problems/737) | medium | 2026-09-05 | [solution](problems/0737-weighted-multi-head-index-score-computation) |
+| [MinHash for Near-Duplicate Document Detection](https://www.deep-ml.com/problems/766) | hard | 2026-09-05 | [solution](problems/0766-minhash-for-near-duplicate-document-detection) |
 
 ---
 

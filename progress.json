@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T09:49:04.188Z",
+  "generated_at": "2026-09-23T09:49:05.986Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -338,6 +338,71 @@
       "last_pushed_at": "2026-09-04T12:33:55.976Z",
       "language": "python",
       "lines": 36
+    },
+    "problem:766": {
+      "kind": "problem",
+      "id": "766",
+      "title": "MinHash for Near-Duplicate Document Detection",
+      "difficulty": "hard",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/766",
+      "path": "problems/0766-minhash-for-near-duplicate-document-detection",
+      "first_solved_at": "2026-09-05T07:52:37.796Z",
+      "last_pushed_at": "2026-09-05T07:52:37.796Z",
+      "language": "python",
+      "lines": 104
+    },
+    "problem:880": {
+      "kind": "problem",
+      "id": "880",
+      "title": "Create a Float Tensor from a Python List",
+      "difficulty": "easy",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/880",
+      "path": "problems/0880-create-a-float-tensor-from-a-python-list",
+      "first_solved_at": "2026-09-05T10:57:31.155Z",
+      "last_pushed_at": "2026-09-05T10:57:31.155Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:915": {
+      "kind": "problem",
+      "id": "915",
+      "title": "Implement Focal Loss",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/915",
+      "path": "problems/0915-implement-focal-loss",
+      "first_solved_at": "2026-09-05T11:35:42.248Z",
+      "last_pushed_at": "2026-09-05T11:35:42.248Z",
+      "language": "python",
+      "lines": 34
+    },
+    "problem:737": {
+      "kind": "problem",
+      "id": "737",
+      "title": "Weighted Multi-Head Index Score Computation",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/737",
+      "path": "problems/0737-weighted-multi-head-index-score-computation",
+      "first_solved_at": "2026-09-05T12:11:37.188Z",
+      "last_pushed_at": "2026-09-05T12:11:37.188Z",
+      "language": "python",
+      "lines": 29
+    },
+    "problem:763": {
+      "kind": "problem",
+      "id": "763",
+      "title": "Million-Token Corpus Question Answering Evaluation",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/763",
+      "path": "problems/0763-million-token-corpus-question-answering-evaluation",
+      "first_solved_at": "2026-09-05T17:15:49.735Z",
+      "last_pushed_at": "2026-09-05T17:15:49.735Z",
+      "language": "python",
+      "lines": 58
     }
   }
 }
