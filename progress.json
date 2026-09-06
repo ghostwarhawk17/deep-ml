@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T09:49:05.986Z",
+  "generated_at": "2026-09-23T09:49:07.719Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -403,6 +403,45 @@
       "last_pushed_at": "2026-09-05T17:15:49.735Z",
       "language": "python",
       "lines": 58
+    },
+    "problem:745": {
+      "kind": "problem",
+      "id": "745",
+      "title": "Multi-Token Prediction Training Objective",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/745",
+      "path": "problems/0745-multi-token-prediction-training-objective",
+      "first_solved_at": "2026-09-06T12:25:58.235Z",
+      "last_pushed_at": "2026-09-06T12:25:58.235Z",
+      "language": "python",
+      "lines": 21
+    },
+    "problem:767": {
+      "kind": "problem",
+      "id": "767",
+      "title": "N-gram Overlap Contamination Detection",
+      "difficulty": "medium",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/767",
+      "path": "problems/0767-n-gram-overlap-contamination-detection",
+      "first_solved_at": "2026-09-06T13:03:18.683Z",
+      "last_pushed_at": "2026-09-06T13:03:18.683Z",
+      "language": "python",
+      "lines": 48
+    },
+    "problem:772": {
+      "kind": "problem",
+      "id": "772",
+      "title": "Duplicated N-gram Coverage Ratio",
+      "difficulty": "easy",
+      "category": "NLP",
+      "url": "https://www.deep-ml.com/problems/772",
+      "path": "problems/0772-duplicated-n-gram-coverage-ratio",
+      "first_solved_at": "2026-09-06T14:03:37.395Z",
+      "last_pushed_at": "2026-09-06T14:03:37.395Z",
+      "language": "python",
+      "lines": 27
     }
   }
 }

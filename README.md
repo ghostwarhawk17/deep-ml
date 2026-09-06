@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**31** solved · 31 problems · 0 labs · 0 math
+**34** solved · 34 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,6 +16,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Perplexity for Language Models](https://www.deep-ml.com/problems/320) | easy | 2026-09-04 | [solution](problems/0320-calculate-perplexity-for-language-models) |
 | [Calculate Unigram Probability from Corpus](https://www.deep-ml.com/problems/129) | easy | 2026-09-04 | [solution](problems/0129-calculate-unigram-probability-from-corpus) |
 | [Create a Float Tensor from a Python List](https://www.deep-ml.com/problems/880) | easy | 2026-09-05 | [solution](problems/0880-create-a-float-tensor-from-a-python-list) |
+| [Duplicated N-gram Coverage Ratio](https://www.deep-ml.com/problems/772) | easy | 2026-09-06 | [solution](problems/0772-duplicated-n-gram-coverage-ratio) |
 | [Exact Match Score with Normalization](https://www.deep-ml.com/problems/325) | easy | 2026-09-04 | [solution](problems/0325-exact-match-score-with-normalization) |
 | [Implement ReLU Activation Function](https://www.deep-ml.com/problems/42) | easy | 2026-01-17 | [solution](problems/0042-implement-relu-activation-function) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-01-18 | [solution](problems/0015-linear-regression-using-gradient-descent) |
@@ -37,6 +38,8 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement TF-IDF (Term Frequency-Inverse Document Frequency)](https://www.deep-ml.com/problems/60) | medium | 2026-09-03 | [solution](problems/0060-implement-tf-idf-term-frequency-inverse-document-frequency) |
 | [Million-Token Corpus Question Answering Evaluation](https://www.deep-ml.com/problems/763) | medium | 2026-09-05 | [solution](problems/0763-million-token-corpus-question-answering-evaluation) |
 | [Multi-Needle Long-Context Retrieval Evaluation](https://www.deep-ml.com/problems/753) | medium | 2026-09-04 | [solution](problems/0753-multi-needle-long-context-retrieval-evaluation) |
+| [Multi-Token Prediction Training Objective](https://www.deep-ml.com/problems/745) | medium | 2026-09-06 | [solution](problems/0745-multi-token-prediction-training-objective) |
+| [N-gram Overlap Contamination Detection](https://www.deep-ml.com/problems/767) | medium | 2026-09-06 | [solution](problems/0767-n-gram-overlap-contamination-detection) |
 | [Outlier Detection and Removal Using IQR Method](https://www.deep-ml.com/problems/355) | medium | 2026-09-03 | [solution](problems/0355-outlier-detection-and-removal-using-iqr-method) |
 | [Overlapping Max Pooling](https://www.deep-ml.com/problems/190) | medium | 2026-01-17 | [solution](problems/0190-overlapping-max-pooling) |
 | [Pairwise Preference Judge for LLM Comparison](https://www.deep-ml.com/problems/323) | medium | 2026-01-16 | [solution](problems/0323-pairwise-preference-judge-for-llm-comparison) |
