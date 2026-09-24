@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**38** solved · 38 problems · 0 labs · 0 math
+**39** solved · 39 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -39,6 +39,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement BatchNorm2d from Scratch (training mode)](https://www.deep-ml.com/problems/902) | medium | 2026-09-07 | [solution](problems/0902-implement-batchnorm2d-from-scratch-training-mode) |
 | [Implement Focal Loss](https://www.deep-ml.com/problems/915) | medium | 2026-09-05 | [solution](problems/0915-implement-focal-loss) |
 | [Implement TF-IDF (Term Frequency-Inverse Document Frequency)](https://www.deep-ml.com/problems/60) | medium | 2026-09-03 | [solution](problems/0060-implement-tf-idf-term-frequency-inverse-document-frequency) |
+| [Implementing a Simple RNN](https://www.deep-ml.com/problems/54) | medium | 2026-09-24 | [solution](problems/0054-implementing-a-simple-rnn) |
 | [Million-Token Corpus Question Answering Evaluation](https://www.deep-ml.com/problems/763) | medium | 2026-09-05 | [solution](problems/0763-million-token-corpus-question-answering-evaluation) |
 | [Multi-Needle Long-Context Retrieval Evaluation](https://www.deep-ml.com/problems/753) | medium | 2026-09-04 | [solution](problems/0753-multi-needle-long-context-retrieval-evaluation) |
 | [Multi-Token Prediction Training Objective](https://www.deep-ml.com/problems/745) | medium | 2026-09-06 | [solution](problems/0745-multi-token-prediction-training-objective) |
